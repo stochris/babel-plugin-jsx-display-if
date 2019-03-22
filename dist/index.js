@@ -1,4 +1,4 @@
-export default function JsxDisplayIf(_ref) {
+module.exports = function JsxDisplayIf(_ref) {
   var t = _ref.types;
   return {
     visitor: {
